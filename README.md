@@ -1,38 +1,38 @@
-\# Restaurant Data Analytics Project
+\# 🍽️ Restaurant Data Analytics Project
 
 
 
-\## Overview
+\## 📊 Overview
 
 This project focuses on analyzing restaurant data to uncover patterns,
 
-trends, and insights using Python-based data analysis techniques.
+trends, and business insights using Python-based data analysis techniques.
 
 
 
-\## Analysis Highlights
+\## 🔍 Analysis Highlights
 
-\- Restaurant performance segmentation
+\- ⭐ Restaurant performance segmentation
 
-\- Customer preference and pricing analysis
+\- 🍴 Customer preference and pricing analysis
 
-\- Geographic and market-level insights
+\- 🌍 Geographic and market-level insights
 
-\- Business-oriented recommendations
-
-
-
-\## Tools \& Technologies
-
-\- Python (Pandas, NumPy, Matplotlib, Seaborn)
-
-\- Google Colab
-
-\- Git \& GitHub
+\- 📈 Business-oriented recommendations
 
 
 
-\## Conclusion
+\## 🛠️ Tools \& Technologies
+
+\- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+\- ☁️ Google Colab
+
+\- 🔧 Git \& GitHub
+
+
+
+\## ✅ Conclusion
 
 The project demonstrates structured analytical thinking and visualization-driven
 
